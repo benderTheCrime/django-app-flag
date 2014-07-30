@@ -4,6 +4,5 @@ LICENSE.txt
 README.txt
 setup.py
 django_app_flag/__init__.py
+django_app_flag/decorators.py
 django_app_flag/tests.py
-django_app_flag/urls.py
-django_app_flag/views.py
