@@ -6,3 +6,4 @@ setup.py
 django_app_flag/__init__.py
 django_app_flag/decorators.py
 django_app_flag/tests.py
+django_app_flag/templates/djangoAppFlagTemplate.html
